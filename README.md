@@ -8,7 +8,7 @@ I’m a Backend Engineer at [Reeka](https://reeka-landing-page.vercel.app/), bui
 Designing reliable APIs, implementing real-time features, and making backend logic cleaner and easier to test.
 
 📚 **What I’m Learning**:  
-Currently diving deeper into **NestJS**, **design patterns**, and **cloud architecture** with AWS.
+Currently diving deeper into **NestJS**, **Design patterns**, and **Cloud architecture** with AWS.
 
 💡 **On the Side**:
 Exploring the principles behind structural and highway design.
